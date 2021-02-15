@@ -6,8 +6,8 @@
 *@07/09/2020 Año de la pandemia del covid2
 **/
 
-    $login ='1863f8a3ba0e8d4290137c4b18fa4286';
-    $trankey = '97d3E70wO36CoQjS';
+    $login ='';
+    $trankey = '';
     $numCard = '36545400000008';
     //4110760000000008
     $auth = new stdClass();
